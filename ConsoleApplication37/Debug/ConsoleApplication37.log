@@ -1,0 +1,7 @@
+﻿  ConsoleApplication37.cpp
+C:\Users\Komputer\source\repos\ConsoleApplication37\ConsoleApplication37\ConsoleApplication37.cpp(119,55): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Komputer\source\repos\ConsoleApplication37\ConsoleApplication37\ConsoleApplication37.cpp(120,65): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Komputer\source\repos\ConsoleApplication37\ConsoleApplication37\ConsoleApplication37.cpp(121,62): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Komputer\source\repos\ConsoleApplication37\ConsoleApplication37\ConsoleApplication37.cpp(122,63): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Komputer\source\repos\ConsoleApplication37\ConsoleApplication37\ConsoleApplication37.cpp(123,64): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication37.vcxproj -> C:\Users\Komputer\source\repos\ConsoleApplication37\Debug\ConsoleApplication37.exe
